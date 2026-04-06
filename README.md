@@ -54,7 +54,6 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🤖 AI Image Generator](https://github.com/PrayagSonagra/AI-image-generator) | AI-powered creative suite with high-speed image generation & subscription billing | Next.js, TypeScript, Modal, Polar |
 | [📚 Voca](https://github.com/PrayagSonagra/voca) | AI-powered book library with PDF uploads & conversational document interface | MERN, AI Integration |
 
 ---
