@@ -54,7 +54,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [📚 Voca](https://github.com/PrayagSonagra/voca) | AI-powered book library with PDF uploads & conversational document interface | MERN, AI Integration |
+| [📚 Vapor Clip](https://github.com/PrayagSonagra/vaporclip) | Fast, temporary, and encrypted clip sharing for modern developer workflows.|
 
 ---
 
