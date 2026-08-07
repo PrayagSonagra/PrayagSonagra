@@ -54,7 +54,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [📚 Vapor Clip](https://github.com/PrayagSonagra/vaporclip) | Fast, temporary, and encrypted clip sharing for modern developer workflows.|
+| [📚 Vapor Clip](https://github.com/PrayagSonagra/vaporclip) | Fast, temporary, and encrypted clip sharing for modern developer workflows.| NEXT.js, MongoDB
 
 ---
 
